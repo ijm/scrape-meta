@@ -68,9 +68,5 @@ def main():
     args.ofile.write(outstring)
 
 
-# print(json.dumps(meta_data, indent=2))
-# print(yaml.dump(meta_data, default_flow_style=False))
-
-
 if __name__ == "__main__":
     main()
