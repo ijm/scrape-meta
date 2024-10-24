@@ -1,2 +1,4 @@
 # scrape-meta
-Scrape the html meta tags from a URL into a human readable JSON or YAML file.
+
+A Python script to scrape HTML meta tags from a URL and output them in a human-readable JSON or YAML file.
+
